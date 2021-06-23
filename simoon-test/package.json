@@ -12,7 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "simoon-test-lib": "^1.0.0"
-  }
+  "dependencies": {}
 }
